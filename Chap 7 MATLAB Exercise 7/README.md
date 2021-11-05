@@ -1,2 +1,2 @@
 
-![MATLAB Exercise 7](https://user-images.githubusercontent.com/77440902/140497480-e27383fe-ee1f-4fb2-b0e8-3b95328c618a.png)
+![MATLAB Exercise 7](https://user-images.githubusercontent.com/77440902/140501682-b26c23be-a7eb-4ca6-8851-a5f810421fc0.png)
